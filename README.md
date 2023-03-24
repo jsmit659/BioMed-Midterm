@@ -4,12 +4,11 @@
 
 CPU: 11th Gen Intel(R) Core(TM) i7-11600H @ 2.90GHz\
 GPU: NVIDIA RTX3050Ti 8Gb RAM Boost Clock: 1.78GHz\
-Memory: 40GB DDR4 RAM\
+RAM: 40GB DDR4
 
 ### Introduction to SRGANs
 Super Resolution GAN (SRGAN) Links to an external site.is a deep learning architecture that uses a combination of GANs 
-and convolutional neural networks (CNNs) to generate high-resolution images from low-resolution images. The idea behind S
-RGAN is to train a generator network to create high-resolution images that are as close as possible to the real high-resolution 
+and convolutional neural networks (CNNs) to generate high-resolution images from low-resolution images. The idea behind SRGAN is to train a generator network to create high-resolution images that are as close as possible to the real high-resolution 
 images, and a discriminator network that is trained to distinguish between the generated high-resolution images and real high-resolution images. 
 The training process involves feeding low-resolution images to the generator, which then generates a high-resolution image. The discriminator 
 then evaluates the generated high-resolution image and provides feedback to the generator to improve the quality of the generated image.
