@@ -4,7 +4,7 @@
 
 CPU: 11th Gen Intel(R) Core(TM) i7-11600H @ 2.90GHz\
 GPU: NVIDIA RTX3050Ti 8Gb RAM Boost Clock: 1.78GHz\
-Memory :40GB DDR4 RAM\
+Memory: 40GB DDR4 RAM\
 
 ### Introduction to SRGANs
 Super Resolution GAN (SRGAN) Links to an external site.is a deep learning architecture that uses a combination of GANs 
