@@ -68,7 +68,7 @@ for folder in [train_dir, test_dir]:
 
 ### Show some examples of scaled images in JNB
 
-Once them Images have been downsized to 32x32x3, the images are extremly small and almost indistinguishable. Below are some examples of these newly generated downsized images.
+Once the Images have been downsized to 32x32x3, the images are extremly small and almost indistinguishable. Below are some examples of these newly generated downsized images.
 
 ![DME-323904-3](https://user-images.githubusercontent.com/113131600/227603680-65620948-0156-465b-82b6-fbb10561e790.jpeg)
 ![DME-328450-1](https://user-images.githubusercontent.com/113131600/227603684-6133a1d7-9f22-4d54-8301-9968e0afa103.jpeg)
